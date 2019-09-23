@@ -21,6 +21,12 @@ as for the sections that each member gets go ahead and talk about them here.
 
 
 Nick Allee:
+    manage case
+    mount drive image
+    create index
+    search index
+    deleted file search
+
 
 Brenden Thummel:
 
