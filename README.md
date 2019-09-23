@@ -15,9 +15,10 @@ slideshow
 email that goes to class the day before
 citations
 the presentation should be 15 to 20 minutes
-
+3 questions from our workshop (multiple choice)
 
 as for the sections that each member gets go ahead and talk about them here.
+
 
 
 Nick Allee:
