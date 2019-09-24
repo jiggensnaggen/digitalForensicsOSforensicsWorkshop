@@ -28,6 +28,7 @@ Nick Allee:
     search index
     deleted file search
 
+I will be using the terry usb.eo1 file to demo the main parts of osforensics. I will workshop how to search for files on a drive as well as find deleted files.
 
 Brenden Thummel:
 
