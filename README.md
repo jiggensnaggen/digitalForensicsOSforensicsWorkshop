@@ -31,4 +31,4 @@ Nick Allee:
 
 Brenden Thummel:
 
-Hunter Walters:
+Hunter Walters: Generating rainbow tables, cracking using rainbow tables
